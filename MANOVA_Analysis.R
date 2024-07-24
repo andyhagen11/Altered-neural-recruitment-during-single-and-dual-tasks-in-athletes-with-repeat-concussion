@@ -2,7 +2,8 @@
 
 library(stats)  
 library(psych)  
-library(rstudioapi)  
+library(rstudioapi)
+library(readxl)
 rm(list=ls())
 
 #Print warnings as they come up for troubleshooting purposes
